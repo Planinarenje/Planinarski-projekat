@@ -1,3 +1,3 @@
 <html>
-  #Planinarski projekat#
+  # H1 Planinarski projekat
   <html>
